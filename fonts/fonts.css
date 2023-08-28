@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'ALS Sector';
+  src: url('ALS-Sector/ALS_Sector-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF UI Text';
+  src: local('SF UI Text Regular'), local('SFUIText-Regular'),
+  url('sf-ui/SFUIText-Regular.woff2') format('woff2'),
+  url('sf-ui/SFUIText-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans';
+  src: local('IBM Plex Sans'), local('IBMPlexSans'),
+  url('ibm-ui/IBMPlexSans.woff2') format('woff2'),
+  url('ibm-ui/IBMPlexSans.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF UI Text';
+  src: local('SF UI Text Medium'), local('SFUIText-Medium'),
+  url('sf-ui/SFUIText-Medium.woff2') format('woff2'),
+  url('sf-ui/SFUIText-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans';
+  src: local('IBM Plex Sans Medium'), local('IBMPlexSans-Medium'),
+  url('ibm-ui/IBMPlexSans-Medium.woff2') format('woff2'),
+  url('ibm-ui/IBMPlexSans-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
